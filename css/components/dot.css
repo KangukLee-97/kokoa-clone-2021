@@ -1,7 +1,19 @@
-.red-dot {
+.red-dot__find {
   position: absolute;
   background-color: tomato;
   width: 6px;
   height: 6px;
   border-radius: 3px;
+  left: 70px;
+  top: -10px;
+}
+
+.red-dot__more {
+  position: absolute;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  left: 120px;
+  top: -10px;
 }

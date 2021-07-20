@@ -52,3 +52,21 @@
   display: block;
   margin-bottom: 10px;
 }
+
+.user-component__text {
+  position: relative;
+}
+
+.user-component__bang {
+  position: absolute;
+  color: red;
+  border: 2px solid red;
+  border-radius: 100%;
+  width: 13px;
+  height: 13px;
+  font-size: 14px;
+  text-align: center;
+  right: -25px;
+  bottom: 0px;
+  padding-right: 1px;
+}
